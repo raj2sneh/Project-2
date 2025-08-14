@@ -8,7 +8,7 @@ ii Attendance.
 
 The goal is to apply Linear Regression using Python to create a predictive model and evaluate its accuracy.  
 
-**Features**  
+**Steps**  
 
 i   Data preprocessing and cleaning.  
 ii  Building a Linear Regression model.  
